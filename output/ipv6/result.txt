@@ -1,13 +1,15 @@
 🕘️更新时间,#genre#
-2025-08-21 11:20:34,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
+2025-08-21 18:48:57,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
 
 📺央视频道,#genre#
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
-CETV2,https://cc06.tv12.xyz/24.m3u8$订阅源
+CETV2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy$订阅源
+CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy$订阅源
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+陕西卫视,https://migu.188766.xyz/?migutoken=10c796b9a6319d64719c78ea4d04cffa&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&pp=1$订阅源
 
 ☘️浙江频道,#genre#
 
@@ -20,7 +22,7 @@ CETV2,https://cc06.tv12.xyz/24.m3u8$订阅源
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy$订阅源
+CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1$订阅源
 
 🎥咪咕直播,#genre#
 
