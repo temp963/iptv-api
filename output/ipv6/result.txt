@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-21 10:46:59,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
+2025-08-21 11:20:34,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
 
 📺央视频道,#genre#
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
-CETV1,https://cc06.tv12.xyz/23.m3u8$订阅源
 CETV2,https://cc06.tv12.xyz/24.m3u8$订阅源
 
 💰央视付费频道,#genre#
@@ -11,8 +10,6 @@ CETV2,https://cc06.tv12.xyz/24.m3u8$订阅源
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江经济生活,http://ls.qingting.fm/live/1099.m3u8$订阅源
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$订阅源
 
 ☘️北京频道,#genre#
 
