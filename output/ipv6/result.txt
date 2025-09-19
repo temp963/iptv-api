@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-17 18:46:35,https://mursor.ottiptv.cc/mcp/fyjc.m3u8$订阅源
+2025-09-19 18:46:37,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8$订阅源
 
 📡卫视频道,#genre#
 
@@ -13,13 +12,11 @@
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
-上海第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84$订阅源
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-CHC家庭影院,https://mursor.ottiptv.cc/migu/644368373.m3u8?migutoken=eda0112e6a1f0fac1c6d7d1bba6e6bf6f4bad80594800fe209a244e76507b80132e671dc1045ca63e497f73f714e92acba8837381116572cad1ef61ce9ddcc4ec333dd4414d08865970e33e630$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
 🎥咪咕直播,#genre#
