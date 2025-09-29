@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-27 18:43:06,https://cc06.tv12.xyz/4.m3u8$订阅源
+2025-09-29 18:48:37,https://cc06.tv12.xyz/4.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://cc06.tv12.xyz/4.m3u8$订阅源
@@ -17,8 +17,6 @@ CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
-💰央视付费频道,#genre#
-
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
@@ -31,7 +29,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$订阅源
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
@@ -40,6 +37,7 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 🏀体育频道,#genre#
 CCTV-5,https://cc06.tv12.xyz/5.m3u8$订阅源
 CCTV-5+,https://cc06.tv12.xyz/6.m3u8$订阅源
+五星体育,https://other.ottiptv.cc/wxty.m3u8$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
