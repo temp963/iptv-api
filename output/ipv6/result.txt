@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-29 18:48:37,https://cc06.tv12.xyz/4.m3u8$订阅源
+2025-10-01 18:46:27,https://cc06.tv12.xyz/4.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://cc06.tv12.xyz/4.m3u8$订阅源
@@ -18,6 +18,37 @@ CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 
 📡卫视频道,#genre#
+广东卫视,https://cc06.tv12.xyz/43.m3u8$订阅源
+浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
+湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
+北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
+湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
+黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
+安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
+重庆卫视,https://cc06.tv12.xyz/34.m3u8$订阅源
+东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
+东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
+甘肃卫视,https://cc06.tv12.xyz/44.m3u8$订阅源
+广西卫视,https://cc06.tv12.xyz/46.m3u8$订阅源
+贵州卫视,https://cc06.tv12.xyz/48.m3u8$订阅源
+海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
+河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
+河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
+吉林卫视,https://cc06.tv12.xyz/60.m3u8$订阅源
+江苏卫视,https://cc06.tv12.xyz/61.m3u8$订阅源
+江西卫视,https://cc06.tv12.xyz/62.m3u8$订阅源
+辽宁卫视,https://cc06.tv12.xyz/70.m3u8$订阅源
+内蒙古卫视,https://cc06.tv12.xyz/94.m3u8$订阅源
+宁夏卫视,https://cc06.tv12.xyz/96.m3u8$订阅源
+青海卫视,https://cc06.tv12.xyz/97.m3u8$订阅源
+山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
+山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源
+陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
+四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
+深圳卫视,https://cc06.tv12.xyz/108.m3u8$订阅源
+西藏卫视,https://cc06.tv12.xyz/112.m3u8$订阅源
+新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
+云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
 
 ☘️浙江频道,#genre#
 
@@ -29,7 +60,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
 🎥咪咕直播,#genre#
