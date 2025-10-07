@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-05 18:43:03,https://cc06.tv12.xyz/6.m3u8$订阅源
+2025-10-07 18:46:08,https://cc06.tv12.xyz/6.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-5+,https://cc06.tv12.xyz/6.m3u8$订阅源
@@ -58,7 +58,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8$订阅源
 淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
