@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-11 18:40:56,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
+2025-11-13 18:41:03,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源
 
 📺央视频道,#genre#
 
@@ -14,6 +14,7 @@
 
 🎬电影频道,#genre#
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 
 🏀体育频道,#genre#
 
