@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-25 18:33:35,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
+2025-12-27 18:30:55,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -16,7 +16,6 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 

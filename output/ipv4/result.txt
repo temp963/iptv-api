@@ -1,18 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-25 18:33:35,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8$订阅源
+2025-12-27 18:30:55,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8$订阅源
-CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8$订阅源
-CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8$订阅源
-CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8$订阅源
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8$订阅源
-CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8$订阅源
-CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8$订阅源
-CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8$订阅源
-CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8$订阅源
-CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8$订阅源
-CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源
@@ -21,8 +10,8 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
-东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$订阅源
@@ -64,7 +53,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$订阅源
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$订阅源
-浙江新闻,http://101.66.194.123:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源
@@ -151,7 +139,6 @@ CHC动作电影,http://129.150.54.232:10001/yy/1382736809$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
 
 🏀体育频道,#genre#
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
 
