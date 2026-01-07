@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-05 18:36:58,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
+2026-01-07 18:34:42,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
 📺央视频道,#genre#
 
