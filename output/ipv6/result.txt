@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-01-09 18:34:11,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
+2026-01-11 18:31:22,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
 📺央视频道,#genre#
+
+💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 
