@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-13 19:07:51,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-15 18:32:15,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -8,7 +8,6 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$订阅源
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8$订阅源
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8$订阅源
@@ -17,13 +16,12 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr$订阅源
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw$订阅源
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
-靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065$订阅源
-靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065$订阅源
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw$订阅源
 
 🎬电影频道,#genre#
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058$订阅源
