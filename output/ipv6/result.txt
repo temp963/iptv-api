@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-17 18:41:04,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-19 18:38:01,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -17,13 +17,13 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/GeWKr$订阅源
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/$订阅源
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$订阅源
 明珠台,https://cdn.qd.je/163189/mzt$订阅源
 凤凰香港,https://cdn.qd.je/163189/fhhk$订阅源
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw$订阅源
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw$订阅源
 
 🎬电影频道,#genre#
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
