@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 18:32:21,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-25 18:40:59,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -8,6 +8,7 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$订阅源
+广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8$订阅源
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8$订阅源
