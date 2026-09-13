@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-11 22:14:39,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-09-13 22:14:06,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -16,8 +16,8 @@ CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 ☘️上海频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,http://r.jdshipin.com/GeWKr$订阅源
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/$订阅源
+翡翠台,http://r.jdshipin.com/GeWKr$订阅源
 明珠台,https://cdn.qd.je/163189/mzt$订阅源
 无线新闻,https://cdn6.cc.cd/163189/wxxwt$订阅源
 
