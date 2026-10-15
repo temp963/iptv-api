@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-14 01:30:20,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$订阅源
+2026-10-15 22:49:30,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8$订阅源
 
 📺央视频道,#genre#
 
@@ -13,6 +13,8 @@
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8$订阅源
 
 ☘️上海频道,#genre#
+上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8$订阅源
+上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8$订阅源
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/$订阅源
@@ -23,5 +25,6 @@
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 
 🏀体育频道,#genre#
+五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8$订阅源
 
 🎵音乐频道,#genre#
