@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-04 01:40:42,http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8$订阅源
+2026-11-06 01:57:00,http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8$订阅源
@@ -32,10 +32,14 @@ CCTV-17,http://111.59.24.227:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$订阅源
 安徽卫视,http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+安徽卫视,http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
+东南卫视,http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
+江苏卫视,http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+山东卫视,http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$订阅源
 
 ☘️浙江频道,#genre#
@@ -46,6 +50,7 @@ CCTV-17,http://111.59.24.227:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$订阅源
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8$订阅源
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8$订阅源
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
@@ -59,6 +64,7 @@ CCTV-17,http://111.59.24.227:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8$订阅源
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?$订阅源
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8$订阅源
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
